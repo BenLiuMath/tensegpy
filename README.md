@@ -2,8 +2,8 @@
 
 
 
-![GitHub Logo](/images/4fans_sidestraight.jpg)
+![tensegrity sculpture, side view](/images/4fans_sidestraight.jpg)
 
-![GitHub Logo](/images/4fans_topangled.jpg)
+![tensegrity sculpture, top-angled view](/images/4fans_topangled.jpg)
 
-![GitHub Logo](/images/4fans_top.jpg)
+![tensegrity sculpture, top view](/images/4fans_top.jpg)
